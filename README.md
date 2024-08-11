@@ -1,6 +1,4 @@
-# Assignment
-
-## Demo Video
+## Demo
 [demo (1).webm](https://github.com/user-attachments/assets/ccbc0c14-f7a3-4f53-91b1-f881b87d65c1)
 
 ## Instructions
