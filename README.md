@@ -1,10 +1,7 @@
 # Assignment
 
 ## Demo Video
-<video width="320" height="240" controls>
-  <source src="demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[demo (1).webm](https://github.com/user-attachments/assets/ccbc0c14-f7a3-4f53-91b1-f881b87d65c1)
 
 ## Instructions
 
