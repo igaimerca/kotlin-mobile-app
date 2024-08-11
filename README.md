@@ -1,4 +1,4 @@
-# Ampersand Assignment
+# Assignment
 
 ## Demo Video
 <video width="320" height="240" controls>
@@ -10,7 +10,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/igaimerca/kotlin-mobile-app>
+    git clone https://github.com/igaimerca/kotlin-mobile-app
     ```
 
 2. Open the project in Android Studio.
