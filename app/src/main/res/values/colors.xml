@@ -1,0 +1,5 @@
+<resources>
+    <color name="background">#2A2A2A</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="accent_color">#FFD700</color>
+</resources>
