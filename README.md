@@ -22,9 +22,7 @@
 
 - The app fetches data from `https://api.restful-api.dev/objects`.
 - The app supports landscape layouts for tablets by providing dedicated XML layout files in `res/layout-land/`.
-
-## Design Decisions
-
 - Used Material Design guidelines for a modern look and feel.
 - Added a "View More" button to the list view to toggle between a truncated list and the full list.
-- Ensured the details view is centered and visually appealing with clean, centered text.
+- Ensured the details view is centered and visually appealing.
+- I assumed that api for getting object details is `https://api.restful-api.dev/objects\{id}`
